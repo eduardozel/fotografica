@@ -1,0 +1,2 @@
+# fotografica
+Armadilha fotográfica
